@@ -1,5 +1,7 @@
 # Store
 
+This Project is a webstore application, it is an educational project which demonstartes my bility to use anagularJs, Stripe API, Tailwind CSS, Anuglr Material CSS.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
